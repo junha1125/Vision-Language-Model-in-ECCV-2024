@@ -11,19 +11,19 @@
 
 ## Sun 29 Sep. Workshops
 
-1. \[Tutorial**!**\] Large Multimodal Foundation Models \[[Website](https://boyiliee.github.io/lmfm/)\]
+1. \[Tutorial\] Large Multimodal Foundation Models \[[Website](https://boyiliee.github.io/lmfm/)\]  
    Boyi Li, Sanjay Subramanian, Saining Xie, Trevor Darrell, Jitendra Malik  
     Time: 09:00 - 13:00  
     Location: Brown 3
-2. \[Workshop\] Autonomous Vehicles meet Multimodal Foundation Models \[[Website](https://mllmav.github.io/)\]
+2. \[Workshop\] Autonomous Vehicles meet Multimodal Foundation Models \[[Website](https://mllmav.github.io/)\]  
    Boris Ivanovic, Hongyang Li, Hang Zhao, Long Chen, Katerina Fragkiadaki  
     Time: 14:00 - 18:00  
     Location: Brown 2
-3. \[Workshop**!**\] Efficient Deep Learning for Foundation Models \[[Website](https://sites.google.com/view/efm24/home)\]
+3. \[Workshop\] Efficient Deep Learning for Foundation Models \[[Website](https://sites.google.com/view/efm24/home)\]  
    Hongxu (Danny) Yin, Sifei Liu, Ji Lin, Maying Shen, Jason Clemons, Xin Wang, Jose M. Alvarez, Pavlo Molchanov, Xueyan Zou, Xiaolong Wang, Song Han, Jan Kautz  
     Time: 14:00 - 18:00  
     Location: Brown 3
-4. \[Workshop\] Enabling Complex Perception Through Vision and Language Foundational Models \[[Website](https://sites.google.com/view/omnilabel-workshop-eccv24/organizers)\]
+4. \[Workshop\] Enabling Complex Perception Through Vision and Language Foundational Models \[[Website](https://sites.google.com/view/omnilabel-workshop-eccv24/organizers)\]  
    Vijay Kumar B G, Yumin Suh, Samuel Schulter, Shiyu Zhao, Long Zhao, Dimitris N. Metaxas  
     Time: 14:00 - 18:00  
     Location: Amber 6
@@ -33,27 +33,27 @@
 
 ## Mon 30 Sep. Workshops & Tutorials
 
-1. \[Workshop**!**\] Out-of-Distribution Generalization in Computer Vision Foundation Models \[[Website](https://www.ood-cv.org/)\]
+1. \[Workshop\] Out-of-Distribution Generalization in Computer Vision Foundation Models \[[Website](https://www.ood-cv.org/)\]  
    Sara Beery, Zsolt Kira, Jiahui Liu  
     Time: 09:00 - 13:00  
     Location: Brown 1
-2. \[Workshop\] Multi-Agent Autonomous Systems Meet Foundation Models: Challenges and Futures \[[Website](https://coop-intelligence.github.io/)\]
+2. \[Workshop\] Multi-Agent Autonomous Systems Meet Foundation Models: Challenges and Futures \[[Website](https://coop-intelligence.github.io/)\]  
    Jiaqi Ma, Alois C. Knoll, Hang Qiu, Guillaume Sartoretti, Sheng Zhou, Amanda Prorok, Zsolt Kira, Manabu Tsukada, Marco Pavone, Jingwei Ji, Boris Ivanovic, Federico Tombari  
     Time: 14:00 - 18:00  
     Location: Amber 1
-3. \[Workshop\] Foundation Models for 3D Humans \[[Website](https://human-foundation.github.io/workshop-eccv-2024/)\]
+3. \[Workshop\] Foundation Models for 3D Humans \[[Website](https://human-foundation.github.io/workshop-eccv-2024/)\]  
    Michael J. Black, Jitendra Malik, Siyu Tang, Jingyi Yu, Angjoo Kanazawa  
     Time: 14:00 - 18:00  
     Location: Tower Lounge
-4. \[Workshop**!**\] Emergent Visual Abilities and Limits of Foundation Models \[[Website](https://sites.google.com/view/eval-fomo-24/home)\]
+4. \[Workshop\] Emergent Visual Abilities and Limits of Foundation Models \[[Website](https://sites.google.com/view/eval-fomo-24/home)\]  
    Antonio Torralba, Saining Xie, Heng Ji, Phillip Isola, Christian Rupprecht  
     Time: 14:00 - 18:00  
     Location: Amber 5
-5. \[Workshop\] FOundation models Creators meet USers \[[Website](https://focus-workshop.github.io/)\]
+5. \[Workshop\] FOundation models Creators meet USers \[[Website](https://focus-workshop.github.io/)\]  
    Zsolt Kira, Ishan Misra, Hilde Kuehne  
     Time: 14:00 - 18:00  
     Location: Suite 2
-6. \[Workshop**!**\] Green Foundation Models \[[Website](https://green-fomo.github.io/ECCV2024/index.html)\]
+6. \[Workshop\] Green Foundation Models \[[Website](https://green-fomo.github.io/ECCV2024/index.html)\]  
    Judy Hoffman, Ranjay Krishna, Elisabetta Farella, Jose M. Alvarez, Eric Schulz  
     Time: 14:00 - 18:00  
     Location: Suite 9
@@ -86,7 +86,7 @@
 ### Poster 2 16:30-18:30
 
 1. Region-centric Image-Language Pretraining for Open-Vocabulary Detection [[pdf](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/8007_ECCV_2024_paper.php)]  
-    Location: # 76 **!**
+    Location: # 76 
 2. Grid-Attention: Enhancing Computational Efficiency of Large Vision Models without Fine-Tuning [[pdf](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/6640_ECCV_2024_paper.php)]  
     Location: # 83
 3. Contrastive Region Guidance: Improving Grounding in Vision-Language Models without Training [[pdf](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/10172_ECCV_2024_paper.php)]  
@@ -191,7 +191,7 @@
     Location: 6C
 6. An Image is Worth 1/2 Tokens After Layer 2: Plug-and-Play Inference Acceleration for Large Vision-Language Models [[pdf](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/10478_ECCV_2024_paper.php)]  
     Location: 6C
-7. uCAP: An Unsupervised Prompting Method for Vision-Language Models [[pdf](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/9508_ECCV_2024_paper.php)], **!**  
+7. uCAP: An Unsupervised Prompting Method for Vision-Language Models [[pdf](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/9508_ECCV_2024_paper.php)],   
     Location: 6C
 8. BRAVE: Broadening the visual encoding of vision-language models [[pdf](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/2433_ECCV_2024_paper.php)]  
     Location: 6C
