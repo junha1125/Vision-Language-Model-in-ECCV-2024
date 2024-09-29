@@ -109,28 +109,30 @@
 
 ### Poster 1 10:30-12:30
 
-1. Self-Adapting Large Visual-Language Models to Edge Devices across Visual Modalities [[pdf](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/4094_ECCV_2024_paper.php)]  
-    Location: # 90
-2. Cascade Prompt Learning for Visual-Language Model Adaptation [[pdf](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/6701_ECCV_2024_paper.php)]  
-    Location: # 83
-3. CIC-BART-SSA: : Controllable Image Captioning with Structured Semantic Augmentation [[pdf](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/8373_ECCV_2024_paper.php)]  
-    Location: # 98
-4. Language-Image Pre-training with Long Captions [[pdf](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/2666_ECCV_2024_paper.php)]  
-    Location: # 97
-5. Groma: Localized Visual Tokenization for Grounding Multimodal Large Language Models [[pdf](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/1023_ECCV_2024_paper.php)]  
-    Location: # 109
-6. The First to Know: How Token Distributions Reveal Hidden Knowledge in Large Vision-Language Models? [[pdf](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/6429_ECCV_2024_paper.php)]  
-    Location: # 111
-7. The Hard Positive Truth about Vision-Language Compositionality [[pdf](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/2149_ECCV_2024_paper.php)]  
-    Location: # 100
-8. ClearCLIP: Decomposing CLIP Representations for Dense Vision-Language Inference [[pdf](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/6346_ECCV_2024_paper.php)]  
-    Location: # 86
-9. Towards Open-Ended Visual Recognition with Large Language Models [[pdf](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/2233_ECCV_2024_paper.php)]  
-    Location: # 87
-10. SemiVL: Semi-Supervised Semantic Segmentation with Vision-Language Guidance [[pdf](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/5598_ECCV_2024_paper.php)]  
+1. SemiVL: Semi-Supervised Semantic Segmentation with Vision-Language Guidance [[pdf](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/5598_ECCV_2024_paper.php)]  
     Location: # 82
-11. Mind the Interference: Retaining Pre-trained Knowledge in Parameter Efficient Continual Learning of Vision-Language Models [[pdf](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/5329_ECCV_2024_paper.php)]  
-    Location: # 72
+2. Self-Adapting Large Visual-Language Models to Edge Devices across Visual Modalities [[pdf](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/4094_ECCV_2024_paper.php)]  
+    Location: # 90
+3. Cascade Prompt Learning for Visual-Language Model Adaptation [[pdf](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/6701_ECCV_2024_paper.php)]  
+    Location: # 83
+4. CIC-BART-SSA: : Controllable Image Captioning with Structured Semantic Augmentation [[pdf](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/8373_ECCV_2024_paper.php)]  
+    Location: # 98
+5. Language-Image Pre-training with Long Captions [[pdf](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/2666_ECCV_2024_paper.php)]  
+    Location: # 97
+6. Groma: Localized Visual Tokenization for Grounding Multimodal Large Language Models [[pdf](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/1023_ECCV_2024_paper.php)]  
+    Location: # 109
+7. The First to Know: How Token Distributions Reveal Hidden Knowledge in Large Vision-Language Models? [[pdf](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/6429_ECCV_2024_paper.php)]  
+    Location: # 111
+8. The Hard Positive Truth about Vision-Language Compositionality [[pdf](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/2149_ECCV_2024_paper.php)]  
+    Location: # 100
+9. ClearCLIP: Decomposing CLIP Representations for Dense Vision-Language Inference [[pdf](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/6346_ECCV_2024_paper.php)]  
+    Location: # 86
+10. Towards Open-Ended Visual Recognition with Large Language Models [[pdf](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/2233_ECCV_2024_paper.php)]  
+    Location: # 87
+11. SemiVL: Semi-Supervised Semantic Segmentation with Vision-Language Guidance [[pdf](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/5598_ECCV_2024_paper.php)]  
+     Location: # 82
+12. Mind the Interference: Retaining Pre-trained Knowledge in Parameter Efficient Continual Learning of Vision-Language Models [[pdf](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/5329_ECCV_2024_paper.php)]  
+     Location: # 72
 
 
 
