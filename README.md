@@ -1,11 +1,17 @@
-# Vision Language Model in ECCV 2024
+# Vision Language Models in ECCV 2024
 
 ## Links
 
 - [ECCV 2024 Calendar](https://eccv.ecva.net/virtual/2024/calendar)
 - [ECCV 2024 Dates and Deadlines](https://eccv.ecva.net/Conferences/2024/Dates)
 - [ECCV 2024 Schedule and Rooms](https://eccv.ecva.net/Conferences/2024/Schedule_and_rooms)
-- [All ECCV Accepted Papers](https://docs.google.com/spreadsheets/d/1G8FQNlitoRr1oK2-LZEloeg0_VBP-E0J_WoSXqAhxNo/pubhtml#)
+- All ECCV Accepted Papers \[[Excel](https://docs.google.com/spreadsheets/d/1G8FQNlitoRr1oK2-LZEloeg0_VBP-E0J_WoSXqAhxNo/pubhtml#)\], \[[ECCV site](https://www.ecva.net/papers.php)\]
+
+
+
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4E22AQGYcjwWyf7aFw/feedshare-shrink_800/feedshare-shrink_800/0/1727278329558?e=1730332800&v=beta&t=T4Y-FJBMX5_l4Y1BJ1-dZwjL0E7Ds7ga0FiksdIyTxg" width="40%" alt="ECCV_LOGO">
+</p>
 
 
 
