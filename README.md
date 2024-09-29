@@ -12,7 +12,7 @@
 ## Sun 29 Sep. Workshops
 
 1. \[Tutorial\] Large Multimodal Foundation Models \[[Website](https://boyiliee.github.io/lmfm/)\]  
-   Boyi Li, Sanjay Subramanian, Saining Xie, Trevor Darrell, Jitendra Malik  
+   Saining Xie, Boyi Li, Sanjay Subramanian, Trevor Darrell, Jitendra Malik  
     Time: 09:00 - 13:00  
     Location: Brown 3
 2. \[Workshop\] Autonomous Vehicles meet Multimodal Foundation Models \[[Website](https://mllmav.github.io/)\]  
