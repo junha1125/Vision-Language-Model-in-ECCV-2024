@@ -76,7 +76,7 @@
     Location: # 142
 2. Dolphins: Multimodal Language Model for Driving [[pdf](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/6203_ECCV_2024_paper.php)]  
     Location: # 341
-3. FlexAttention for Efficient High-Resolution Vision-Language Models [[pdf](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/6203_ECCV_2024_paper.php)]  
+3. FlexAttention for Efficient High-Resolution Vision-Language Models [[pdf](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/3642_ECCV_2024_paper.php)]  
     Location: # 133
 4. Understanding Multi-compositional learning in Vision and Language models via Category Theory [[pdf](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/6472_ECCV_2024_paper.php)]  
     Location: # 96
@@ -84,6 +84,8 @@
     Location: # 120
 6. Controllable Contextualized Image Captioning: Directing the Visual Narrative through User-Defined Highlights [[pdf](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/6734_ECCV_2024_paper.php)]  
     Location: # 121
+7. BRIDGE: Bridging Gaps in Image Captioning Evaluation with Stronger Visual Cues [[pdf](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/10005_ECCV_2024_paper.php)]
+8. HaloQuest: A Visual Hallucination Dataset for Advancing Multimodal Reasoning [[pdf](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/9919_ECCV_2024_paper.php)]
 
 
 
